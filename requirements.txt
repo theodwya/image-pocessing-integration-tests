@@ -1,0 +1,4 @@
+# Required packegs for the application
+requests
+pytest
+pytest-cov
